@@ -1,0 +1,4 @@
+com\charter\config\KafkaConfiguration.class
+com\charter\model\User.class
+com\charter\ProducerApplication.class
+com\charter\controller\UserResource.class

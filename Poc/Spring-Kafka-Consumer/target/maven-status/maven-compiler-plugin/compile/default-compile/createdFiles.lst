@@ -1,0 +1,4 @@
+com\charter\config\KafkaConfiguration.class
+com\charter\model\User.class
+com\charter\ConsumerApplication.class
+com\charter\listener\KafkaConsumer.class
